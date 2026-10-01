@@ -1,0 +1,48 @@
+{
+  "name": "claude-video-lab",
+  "version": "1.0.0",
+  "description": "A local Claude Code and Codex video lab powered by Remotion",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@react-three/fiber": "9.8.1",
+    "@react-three/postprocessing": "3.1.3",
+    "@remotion/captions": "4.0.530",
+    "@remotion/cli": "4.0.530",
+    "@remotion/media": "4.0.530",
+    "@remotion/tailwind-v4": "4.0.530",
+    "@remotion/three": "4.0.530",
+    "postprocessing": "6.39.5",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.530",
+    "tailwindcss": "4.0.0",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.530",
+    "@types/react": "19.2.7",
+    "@types/three": "0.186.0",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "audio:v2": "node scripts/generate-sound-v2.mjs",
+    "render:v2": "npm run audio:v2 && remotion render BecomingFilmV2 out/becoming-v2.mp4 --crf=19 --gl=angle --concurrency=3 --log=error && node scripts/check-motion.mjs out/becoming-v2.mp4",
+    "dev": "remotion studio",
+    "preview": "remotion studio",
+    "render": "remotion render ClaudeVideoDemo out/claude-video-demo.mp4",
+    "render:film": "npm run render:v2",
+    "render:film-v1": "bash scripts/render-film.sh",
+    "render:styleframes": "bash scripts/render-styleframes.sh",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

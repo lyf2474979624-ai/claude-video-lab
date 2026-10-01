@@ -1,0 +1,158 @@
+{
+  "file": "out/becoming-v2.mp4",
+  "width": 1920,
+  "height": 804,
+  "fps": 60,
+  "frames": 1680,
+  "duration": 28.053333,
+  "audio": {
+    "codec": "aac",
+    "channels": 2,
+    "sampleRate": "48000"
+  },
+  "consecutiveIdenticalPairs": 1,
+  "longestIdenticalRunSeconds": 0.017,
+  "windows": [
+    {
+      "second": 1,
+      "meanAdjacentFrameDifference": 4.8221,
+      "maxDifference": 8.9025
+    },
+    {
+      "second": 2,
+      "meanAdjacentFrameDifference": 10.945,
+      "maxDifference": 12.4638
+    },
+    {
+      "second": 3,
+      "meanAdjacentFrameDifference": 9.1961,
+      "maxDifference": 12.3138
+    },
+    {
+      "second": 4,
+      "meanAdjacentFrameDifference": 1.6732,
+      "maxDifference": 4.2969
+    },
+    {
+      "second": 5,
+      "meanAdjacentFrameDifference": 0.1532,
+      "maxDifference": 0.3485
+    },
+    {
+      "second": 6,
+      "meanAdjacentFrameDifference": 7.3544,
+      "maxDifference": 11.7856
+    },
+    {
+      "second": 7,
+      "meanAdjacentFrameDifference": 10.4032,
+      "maxDifference": 12.3481
+    },
+    {
+      "second": 8,
+      "meanAdjacentFrameDifference": 11.0405,
+      "maxDifference": 13.1679
+    },
+    {
+      "second": 9,
+      "meanAdjacentFrameDifference": 10.4211,
+      "maxDifference": 12.4487
+    },
+    {
+      "second": 10,
+      "meanAdjacentFrameDifference": 11.176,
+      "maxDifference": 14.1001
+    },
+    {
+      "second": 11,
+      "meanAdjacentFrameDifference": 12.0836,
+      "maxDifference": 14.2858
+    },
+    {
+      "second": 12,
+      "meanAdjacentFrameDifference": 5.4171,
+      "maxDifference": 8.8514
+    },
+    {
+      "second": 13,
+      "meanAdjacentFrameDifference": 4.154,
+      "maxDifference": 113.5202
+    },
+    {
+      "second": 14,
+      "meanAdjacentFrameDifference": 4.8822,
+      "maxDifference": 5.4857
+    },
+    {
+      "second": 15,
+      "meanAdjacentFrameDifference": 3.5163,
+      "maxDifference": 4.6756
+    },
+    {
+      "second": 16,
+      "meanAdjacentFrameDifference": 4.7447,
+      "maxDifference": 6.3761
+    },
+    {
+      "second": 17,
+      "meanAdjacentFrameDifference": 3.8177,
+      "maxDifference": 41.2439
+    },
+    {
+      "second": 18,
+      "meanAdjacentFrameDifference": 1.1163,
+      "maxDifference": 2.113
+    },
+    {
+      "second": 19,
+      "meanAdjacentFrameDifference": 0.9607,
+      "maxDifference": 2.26
+    },
+    {
+      "second": 20,
+      "meanAdjacentFrameDifference": 0.7879,
+      "maxDifference": 2.1861
+    },
+    {
+      "second": 21,
+      "meanAdjacentFrameDifference": 0.6856,
+      "maxDifference": 2.1952
+    },
+    {
+      "second": 22,
+      "meanAdjacentFrameDifference": 0.8645,
+      "maxDifference": 2.2023
+    },
+    {
+      "second": 23,
+      "meanAdjacentFrameDifference": 0.6357,
+      "maxDifference": 0.6954
+    },
+    {
+      "second": 24,
+      "meanAdjacentFrameDifference": 0.3448,
+      "maxDifference": 0.5185
+    },
+    {
+      "second": 25,
+      "meanAdjacentFrameDifference": 0.1715,
+      "maxDifference": 0.1938
+    },
+    {
+      "second": 26,
+      "meanAdjacentFrameDifference": 0.1402,
+      "maxDifference": 0.1838
+    },
+    {
+      "second": 27,
+      "meanAdjacentFrameDifference": 0.1413,
+      "maxDifference": 0.1642
+    },
+    {
+      "second": 27,
+      "meanAdjacentFrameDifference": 0.3062,
+      "maxDifference": 0.5042
+    }
+  ],
+  "interpretation": "Adjacent-frame changes verify motion exists; they do not measure artistic quality. Black opening/ending frames can legitimately match."
+}

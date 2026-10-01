@@ -1,0 +1,481 @@
+{
+  "duration": 28,
+  "sampleRate": 48000,
+  "events": [
+    {
+      "name": "space / moving air",
+      "start": 0,
+      "duration": 28
+    },
+    {
+      "name": "first spark",
+      "start": 0.55,
+      "duration": 2.1
+    },
+    {
+      "name": "answering spark",
+      "start": 0.75,
+      "duration": 1.2
+    },
+    {
+      "name": "particles drawn into core",
+      "start": 0.8,
+      "duration": 3
+    },
+    {
+      "name": "core closes",
+      "start": 3.8,
+      "duration": 2.1
+    },
+    {
+      "name": "launch / inhalation",
+      "start": 4.25,
+      "duration": 1.05
+    },
+    {
+      "name": "launch / bass release",
+      "start": 5.3,
+      "duration": 2.1
+    },
+    {
+      "name": "ring pass 1",
+      "start": 5.92,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 1",
+      "start": 6.25,
+      "duration": 0.5
+    },
+    {
+      "name": "ring pass 2",
+      "start": 6.77,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 2",
+      "start": 7.1,
+      "duration": 0.5
+    },
+    {
+      "name": "ring pass 3",
+      "start": 7.52,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 3",
+      "start": 7.85,
+      "duration": 0.5
+    },
+    {
+      "name": "ring pass 4",
+      "start": 8.22,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 4",
+      "start": 8.55,
+      "duration": 0.5
+    },
+    {
+      "name": "ring pass 5",
+      "start": 8.82,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 5",
+      "start": 9.15,
+      "duration": 0.5
+    },
+    {
+      "name": "ring pass 6",
+      "start": 9.39,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 6",
+      "start": 9.72,
+      "duration": 0.5
+    },
+    {
+      "name": "ring pass 7",
+      "start": 9.92,
+      "duration": 0.68
+    },
+    {
+      "name": "ring edge 7",
+      "start": 10.25,
+      "duration": 0.5
+    },
+    {
+      "name": "compression pressure",
+      "start": 10.55,
+      "duration": 1.8
+    },
+    {
+      "name": "tightening filament",
+      "start": 11.1,
+      "duration": 1.6
+    },
+    {
+      "name": "crystal rupture",
+      "start": 12.8,
+      "duration": 2.1
+    },
+    {
+      "name": "fracture aftershock 1",
+      "start": 13.05,
+      "duration": 2.1
+    },
+    {
+      "name": "fracture aftershock 2",
+      "start": 13.32,
+      "duration": 2.1
+    },
+    {
+      "name": "fracture aftershock 3",
+      "start": 13.7,
+      "duration": 2.1
+    },
+    {
+      "name": "flying shard 1",
+      "start": 14.32754285113569,
+      "duration": 0.32109007711522286
+    },
+    {
+      "name": "flying shard 2",
+      "start": 13.045821147968883,
+      "duration": 0.5554893981153146
+    },
+    {
+      "name": "flying shard 3",
+      "start": 13.102527165490624,
+      "duration": 0.4180716761574149
+    },
+    {
+      "name": "flying shard 4",
+      "start": 15.207840980574124,
+      "duration": 0.4764410309446976
+    },
+    {
+      "name": "flying shard 5",
+      "start": 13.630546360525065,
+      "duration": 0.9737643290031702
+    },
+    {
+      "name": "flying shard 6",
+      "start": 12.903999469168943,
+      "duration": 1.0107349314214662
+    },
+    {
+      "name": "flying shard 7",
+      "start": 13.047860075638479,
+      "duration": 1.077026917245239
+    },
+    {
+      "name": "flying shard 8",
+      "start": 13.420333753727597,
+      "duration": 0.5723264333745466
+    },
+    {
+      "name": "flying shard 9",
+      "start": 14.809438813575124,
+      "duration": 0.6455846373643727
+    },
+    {
+      "name": "flying shard 10",
+      "start": 14.855821070371523,
+      "duration": 0.97091979584191
+    },
+    {
+      "name": "flying shard 11",
+      "start": 13.069188624026935,
+      "duration": 0.8417053084075451
+    },
+    {
+      "name": "flying shard 12",
+      "start": 13.999924490101419,
+      "duration": 0.46869294214528057
+    },
+    {
+      "name": "flying shard 13",
+      "start": 13.97112468711658,
+      "duration": 0.8386157309357077
+    },
+    {
+      "name": "flying shard 14",
+      "start": 13.75446432884399,
+      "duration": 0.621471967031248
+    },
+    {
+      "name": "flying shard 15",
+      "start": 12.985731639008817,
+      "duration": 1.043871476147324
+    },
+    {
+      "name": "flying shard 16",
+      "start": 13.271837545063555,
+      "duration": 0.407199650160037
+    },
+    {
+      "name": "flying shard 17",
+      "start": 13.604095886349949,
+      "duration": 0.3691942653339356
+    },
+    {
+      "name": "flying shard 18",
+      "start": 13.860808870892061,
+      "duration": 0.8915148704731838
+    },
+    {
+      "name": "flying shard 19",
+      "start": 12.835309494763335,
+      "duration": 0.8047481310740113
+    },
+    {
+      "name": "flying shard 20",
+      "start": 13.30495183671735,
+      "duration": 0.8467637222213671
+    },
+    {
+      "name": "flying shard 21",
+      "start": 15.323307868422795,
+      "duration": 0.9406888328213245
+    },
+    {
+      "name": "flying shard 22",
+      "start": 14.898443242897311,
+      "duration": 0.7330482896836474
+    },
+    {
+      "name": "flying shard 23",
+      "start": 13.623026874457683,
+      "duration": 1.061340530794114
+    },
+    {
+      "name": "flying shard 24",
+      "start": 14.772991319793185,
+      "duration": 0.8242354438593612
+    },
+    {
+      "name": "flying shard 25",
+      "start": 13.916049803227834,
+      "duration": 1.048779503321275
+    },
+    {
+      "name": "flying shard 26",
+      "start": 13.917864688081877,
+      "duration": 1.0244456806639208
+    },
+    {
+      "name": "flying shard 27",
+      "start": 14.771410893166074,
+      "duration": 0.9541867240518332
+    },
+    {
+      "name": "flying shard 28",
+      "start": 14.810746948439242,
+      "duration": 0.5276709264097735
+    },
+    {
+      "name": "flying shard 29",
+      "start": 14.409411573973655,
+      "duration": 0.9583193966839463
+    },
+    {
+      "name": "flying shard 30",
+      "start": 12.93637378989678,
+      "duration": 0.4310803926037625
+    },
+    {
+      "name": "flying shard 31",
+      "start": 13.102726756013197,
+      "duration": 0.42809607611969114
+    },
+    {
+      "name": "flying shard 32",
+      "start": 14.674642905022367,
+      "duration": 1.1775149683421477
+    },
+    {
+      "name": "flying shard 33",
+      "start": 13.127186861184388,
+      "duration": 0.3158407862018794
+    },
+    {
+      "name": "flying shard 34",
+      "start": 14.539244180208568,
+      "duration": 0.28089329483453185
+    },
+    {
+      "name": "flying shard 35",
+      "start": 13.37511406570809,
+      "duration": 0.6224385754391552
+    },
+    {
+      "name": "flying shard 36",
+      "start": 14.86076766571975,
+      "duration": 0.9360065728379414
+    },
+    {
+      "name": "flying shard 37",
+      "start": 13.01042830253246,
+      "duration": 0.7867682333756238
+    },
+    {
+      "name": "flying shard 38",
+      "start": 12.836402108736326,
+      "duration": 0.6377143100323156
+    },
+    {
+      "name": "flying shard 39",
+      "start": 15.026581912707567,
+      "duration": 1.0525474215112627
+    },
+    {
+      "name": "flying shard 40",
+      "start": 13.115273040413431,
+      "duration": 1.0901196216186508
+    },
+    {
+      "name": "flying shard 41",
+      "start": 15.234173344442432,
+      "duration": 1.1314012539293619
+    },
+    {
+      "name": "flying shard 42",
+      "start": 13.0673422798001,
+      "duration": 0.5801503536710516
+    },
+    {
+      "name": "flying shard 43",
+      "start": 15.25174194735461,
+      "duration": 0.9087973940372468
+    },
+    {
+      "name": "flying shard 44",
+      "start": 13.854019817887194,
+      "duration": 0.978351205023937
+    },
+    {
+      "name": "flying shard 45",
+      "start": 13.446500735763223,
+      "duration": 1.158729015076533
+    },
+    {
+      "name": "flying shard 46",
+      "start": 12.966397027625252,
+      "duration": 0.6188521797256545
+    },
+    {
+      "name": "flying shard 47",
+      "start": 15.076823418916256,
+      "duration": 0.3249215033091605
+    },
+    {
+      "name": "flying shard 48",
+      "start": 13.263620980773876,
+      "duration": 0.8566701083397493
+    },
+    {
+      "name": "flying shard 49",
+      "start": 13.947374090526116,
+      "duration": 0.6221395640354603
+    },
+    {
+      "name": "flying shard 50",
+      "start": 14.814499293181706,
+      "duration": 0.9099726326251403
+    },
+    {
+      "name": "flying shard 51",
+      "start": 12.940053138460295,
+      "duration": 0.3921284218505025
+    },
+    {
+      "name": "flying shard 52",
+      "start": 14.10781301984482,
+      "duration": 0.6239379543764517
+    },
+    {
+      "name": "flying shard 53",
+      "start": 15.073009891442048,
+      "duration": 0.9460860877949745
+    },
+    {
+      "name": "flying shard 54",
+      "start": 15.161033127576058,
+      "duration": 0.8476288054557518
+    },
+    {
+      "name": "flying shard 55",
+      "start": 15.129030437185252,
+      "duration": 0.9205831973068417
+    },
+    {
+      "name": "reassembly / long inhalation",
+      "start": 14.15,
+      "duration": 2.1
+    },
+    {
+      "name": "wave ignition",
+      "start": 16.2,
+      "duration": 2.1
+    },
+    {
+      "name": "expanding wave 1",
+      "start": 16.549999999999997,
+      "duration": 1.45
+    },
+    {
+      "name": "wave resonance 1",
+      "start": 17.15,
+      "duration": 3.2
+    },
+    {
+      "name": "expanding wave 2",
+      "start": 17.75,
+      "duration": 1.45
+    },
+    {
+      "name": "wave resonance 2",
+      "start": 18.35,
+      "duration": 3.2
+    },
+    {
+      "name": "expanding wave 3",
+      "start": 18.95,
+      "duration": 1.45
+    },
+    {
+      "name": "wave resonance 3",
+      "start": 19.55,
+      "duration": 3.2
+    },
+    {
+      "name": "warm resonating structure",
+      "start": 16.2,
+      "duration": 8.3
+    },
+    {
+      "name": "final sphere gathers",
+      "start": 21.1,
+      "duration": 1.3
+    },
+    {
+      "name": "form / final resonance",
+      "start": 22.4,
+      "duration": 5
+    },
+    {
+      "name": "form / upper resonance",
+      "start": 22.59,
+      "duration": 4.6
+    },
+    {
+      "name": "last point of light",
+      "start": 26.2,
+      "duration": 1.5
+    }
+  ]
+}

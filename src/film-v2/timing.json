@@ -1,0 +1,15 @@
+{
+  "duration": 28,
+  "fps": 60,
+  "spark": 0.55,
+  "gather": 3.8,
+  "launch": 5.3,
+  "passes": [6.25, 7.1, 7.85, 8.55, 9.15, 9.72, 10.25],
+  "compression": 11.1,
+  "break": 12.8,
+  "aftershocks": [13.05, 13.32, 13.7],
+  "release": 16.2,
+  "waves": [17.15, 18.35, 19.55],
+  "resolve": 22.4,
+  "end": 26.2
+}
